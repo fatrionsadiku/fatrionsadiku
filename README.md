@@ -3,7 +3,7 @@
 <h1 align="center">Hi there! 👋 I'm Fatrion Sadiku, an Android Developer</h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/fatrionsadiku" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/fatrion-sadiku-8b2681214/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn" alt="LinkedIn"></a>
   <a href="https://instagram.com/fatrionn" target="_blank"><img src="https://img.shields.io/badge/instagram-%231DA1F2.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram" alt="Instagram"></a>
 </p>
 
