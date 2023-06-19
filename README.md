@@ -20,5 +20,3 @@
 </p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatrionsadiku&hide=html" /></p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=fatrionsadiku&show_icons=true" /></p>
