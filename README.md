@@ -4,7 +4,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fatrion-sadiku-8b2681214/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn" alt="LinkedIn"></a>
-  <a href="https://instagram.com/fatrionn" target="_blank"><img src="https://img.shields.io/badge/instagram-%231DA1F2.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram" alt="Instagram"></a>
 </p>
 
 <p align="center">I'm a passionate developer who loves building awesome Android apps using tools like Kotlin and Android Studio. I'm also skilled in CorelDraw and Adobe Premiere.</p>
