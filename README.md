@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/fatrion-sadiku-8b2681214/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn" alt="LinkedIn"></a>
 </p>
 
-<p align="center">I'm a passionate developer who loves building awesome Android apps using tools like Kotlin and Android Studio. I'm also skilled in CorelDraw and Adobe Premiere.</p>
+<p align="center">I am an aspiring Android developer with a strong foundation in new technologies and a genuine passion for continuous learning. While I may not have prior professional experience, my dedication to staying updated with the latest advancements in Android development equips me with the knowledge and adaptability needed to excel in this field. I am eager to apply my skills, embrace challenges, and contribute to innovative mobile app projects.</p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
