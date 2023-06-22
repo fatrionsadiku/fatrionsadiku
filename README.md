@@ -1,5 +1,3 @@
-<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
-
 <h1 align="center">Hi there! 👋 I'm Fatrion Sadiku, an Android Developer</h1>
 
 <p align="center">
