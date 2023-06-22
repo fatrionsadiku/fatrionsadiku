@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/fatrion-sadiku-8b2681214/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn" alt="LinkedIn"></a>
 </p>
 
-<p align="center">I am an aspiring Android developer with a strong foundation in new technologies and a genuine passion for continuous learning. While I may not have prior professional experience, my dedication to staying updated with the latest advancements in Android development equips me with the knowledge and adaptability needed to excel in this field. I am eager to apply my skills, embrace challenges, and contribute to innovative mobile app projects.</p>
+<p align="center">I am a motivated Android developer with a focus on new technologies and a strong desire for continuous growth. Although I lack professional experience, my dedication to staying current in Android development empowers me to adapt quickly. Eager to contribute to innovative mobile app projects and embrace challenges.</p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
